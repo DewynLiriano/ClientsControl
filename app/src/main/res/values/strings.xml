@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Control de Clientes</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ID">ID</string>
+    <string name="NOMBRE">Nombre</string>
+    <string name="APELLIDO">Apellido</string>
+    <string name="FECHA_CUMPLEANOS">Fecha_Cumpleanos</string>
+    <string name="SEXO">Sexo</string>
+    <string name="NUMERO">Numero</string>
+    <string name="CORREO">Correo</string>
+    <string name="PRECIO">Precio</string>
+    <string name="TIEMPO">Tiempo</string>
+    <string name="CLIENTES">Clientes</string>
+    <string name="ATRACCIONES">Atracciones</string>
+    <string name="FOTOS_CLIENTES">FOTOS_CLIENTES</string>
+    <string name="ERROR">Error</string>
+    <string name="CLIENTE_ID">Cliente</string>
+    <string name="ATRACCION_ID">Atraccion_ID</string>
+    <string name="HORA_ENTRADA">Hora_Entrada</string>
+    <string name="HORA_SALIDA">Hora_Salida</string>
+    <string name="CONTROL_ATRACCIONES">Control_Atracciones</string>
+
+    <string name="conrol_cliente">Control Cliente</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="BORRAR">Eliminar?</string>
+    <string name="DESEA_ELIMINAR">Seguro que desea terminar el control seleccionado?</string>
+    <string name="DATEFORMAT">dd/MM/yyyy HH:mm</string>
+    <string name="DATEFORMAT2">HH:mm</string>
+</resources>

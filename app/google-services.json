@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "835927043261",
+    "firebase_url": "https://kanquimaniapark-4f381.firebaseio.com",
+    "project_id": "kanquimaniapark-4f381",
+    "storage_bucket": "kanquimaniapark-4f381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835927043261:android:2a7d3f7d89ca5f33",
+        "android_client_info": {
+          "package_name": "com.example.djc.kanquimaniapark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835927043261-83mckjq4j2bg8gdsuriqvdmiit4vra7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.djc.kanquimaniapark",
+            "certificate_hash": "5EADE10171D8CEC25AB155EEC3CAB0A6A9E5D55D"
+          }
+        },
+        {
+          "client_id": "835927043261-0hr63c026eja45knv2e9gqccksk4lvj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtTZWj7DgXi1nD9XO8X2LE23PXq-5clc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835927043261-0hr63c026eja45knv2e9gqccksk4lvj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835927043261:android:143eb2e29a19e1f5",
+        "android_client_info": {
+          "package_name": "com.liriano.dewyn.controlatracciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835927043261-qchj5hedvjrqc41363h0qvstq4dliiv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liriano.dewyn.controlatracciones",
+            "certificate_hash": "5EADE10171D8CEC25AB155EEC3CAB0A6A9E5D55D"
+          }
+        },
+        {
+          "client_id": "835927043261-0hr63c026eja45knv2e9gqccksk4lvj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtTZWj7DgXi1nD9XO8X2LE23PXq-5clc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835927043261-0hr63c026eja45knv2e9gqccksk4lvj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835927043261:android:cbc3f12b28783076",
+        "android_client_info": {
+          "package_name": "com.liriano.dewyn.clientscontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835927043261-50pcf1pksj4sfslh1lugquieuunqekc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liriano.dewyn.clientscontrol",
+            "certificate_hash": "5EADE10171D8CEC25AB155EEC3CAB0A6A9E5D55D"
+          }
+        },
+        {
+          "client_id": "835927043261-0hr63c026eja45knv2e9gqccksk4lvj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtTZWj7DgXi1nD9XO8X2LE23PXq-5clc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835927043261-0hr63c026eja45knv2e9gqccksk4lvj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
