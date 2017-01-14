@@ -3,6 +3,7 @@ package com.liriano.dewyn.clientscontrol.CrearClientes;
 
 import android.net.Uri;
 import android.support.annotation.NonNull;
+import android.util.Log;
 
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
@@ -79,7 +80,7 @@ public class ClientFirebaseHelper {
             }
             @Override
             public void onCancelled(DatabaseError databaseError) {
-
+                Log.e("Error", databaseError.getMessage());
             }
         });
     }
