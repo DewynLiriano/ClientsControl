@@ -3,6 +3,7 @@ package com.liriano.dewyn.clientscontrol;
 import android.app.NotificationManager;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
@@ -40,6 +41,9 @@ import com.google.firebase.database.GenericTypeIndicator;
 import com.google.firebase.database.ValueEventListener;
 import com.liriano.dewyn.clientscontrol.Clases.Atraccion;
 import com.liriano.dewyn.clientscontrol.Clases.Cliente;
+import com.liriano.dewyn.clientscontrol.Clases.ControlAtraccion;
+import com.liriano.dewyn.clientscontrol.CrearClientes.CrearCliente;
+
 
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
@@ -168,7 +172,9 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
+        if (id == R.id.create_client_settings) {
+            Intent intent = new Intent(getApplicationContext(), CrearCliente.class);
+            startActivity(intent);
             return true;
         }
 

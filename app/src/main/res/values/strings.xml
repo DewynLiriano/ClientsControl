@@ -28,4 +28,19 @@
     <string name="DESEA_ELIMINAR">Seguro que desea terminar el control seleccionado?</string>
     <string name="DATEFORMAT">dd/MM/yyyy HH:mm</string>
     <string name="DATEFORMAT2">HH:mm</string>
+    <string name="crear_cliente">Crear cliente</string>
+
+    <string name="vacio">Este campo no puede estar vacio</string>
+    <string name="sexo_invalido">Debe seleccionar un sexo</string>
+    <string name="ok">OK</string>
+    <string name="foto_invalido">La foto del cliente es necesaria.</string>
+    <string name="clienteAgregado">Cliente Agregado</string>
+    <string name="sexo">Sexo</string>
+    <string name="varon">Varón</string>
+    <string name="hembra">Hembra</string>
+    <string name="registrar">Registrar Cliente</string>
+
+    <string name="fechaNacimiento">Fecha de nacimiento</string>
+    <string name="correo">Correo</string>
+    <string name="numero">Número de teléfono</string>
 </resources>

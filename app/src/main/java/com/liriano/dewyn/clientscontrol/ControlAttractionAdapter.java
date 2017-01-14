@@ -18,6 +18,7 @@ import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.storage.FirebaseStorage;
 import com.liriano.dewyn.clientscontrol.Clases.Atraccion;
 import com.liriano.dewyn.clientscontrol.Clases.Cliente;
+import com.liriano.dewyn.clientscontrol.Clases.ControlAtraccion;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;

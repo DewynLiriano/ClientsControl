@@ -1,4 +1,4 @@
-package com.liriano.dewyn.clientscontrol;
+package com.liriano.dewyn.clientscontrol.Clases;
 
 /**
  * Created by dewyn on 11/29/2016.

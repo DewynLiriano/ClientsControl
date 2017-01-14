@@ -18,6 +18,17 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".CrearClientes.CrearCliente"
+            android:label="@string/crear_cliente"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".MainActivity" />
+
     </application>
 
 </manifest>
