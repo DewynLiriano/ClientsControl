@@ -80,7 +80,7 @@ public class ClientFirebaseHelper {
             }
             @Override
             public void onCancelled(DatabaseError databaseError) {
-                Log.e("Error", databaseError.getMessage());
+                //Log.e("Error", databaseError.getMessage());
             }
         });
     }
